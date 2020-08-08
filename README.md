@@ -5,4 +5,4 @@ In developing now.
 
 Progress - 50%
 
-Watch actual code updates: https://gist.github.com/BimPsinka
+Watch actual updates: https://gist.github.com/BimPsinka
