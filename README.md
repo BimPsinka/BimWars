@@ -1,4 +1,4 @@
-# BimWars
+# DogDefend
 New minigame for minecraft servers.
 
 In developing now.
