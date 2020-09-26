@@ -3,6 +3,6 @@ New minigame for minecraft servers.
 
 In developing now.
 
-Progress - 65%
+Progress - 70%
 
 Watch actual updates: https://gist.github.com/BimPsinka
